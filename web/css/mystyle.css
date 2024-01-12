@@ -1,0 +1,19 @@
+/*body{
+    background: red;
+}*/
+
+.primary-background{
+    background-color: #0d51fd !important;
+    color:white;
+}
+
+.card-background{
+    background: #e3f2fd!important;
+}
+
+.background-image{
+    background-image: url('img/background1.jpg'); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+}

@@ -78,7 +78,7 @@
 
         <!--navbar end-->
 
-        <main>
+        <main style="margin-bottom: 100px;">
             <div class="container-fluid text-center m-4">
                 <h3 class="display-6"><%= otherUser.getName()%></h3>
                 <p> <span class="fa fa-envelope"></span> Contact : <%= otherUser.getEmail()%> </p>
